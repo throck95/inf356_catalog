@@ -11,6 +11,6 @@
         @else
             <p>Out of Stock</p>
         @endif
-        <img src="/images/{{$product->image}}" alt="{{$product->name}}" />
+        <img src="/images/homework1/{{$product->image}}" alt="{{$product->name}}" />
     </section>
 @stop
